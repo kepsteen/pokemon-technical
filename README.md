@@ -13,6 +13,11 @@ Before looking at the code, please switch to the starter branch. The solution co
 - Responsive design that works on mobile and desktop
 - Loading states and error handling
 
+## Demo
+
+https://github.com/user-attachments/assets/98825717-17d4-4561-8377-af69db192878
+
+
 ## Technologies Used
 
 - React
