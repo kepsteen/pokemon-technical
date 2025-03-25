@@ -1,5 +1,8 @@
 import { useParams, Link } from "react-router";
 
+// TODO: Fetch the individual pokemon data from the PokeAPI using the name parameter
+// TODO: Replace the commented out code with the pokemon data returned from the API
+
 const PokemonDetailPage = () => {
 	const { name } = useParams<{ name: string }>();
 	console.log(name);

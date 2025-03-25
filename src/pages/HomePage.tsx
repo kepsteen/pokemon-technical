@@ -1,3 +1,7 @@
+// TODO: Fetch a list of Pokemon from the PokeAPI
+// TODO: Display the list of Pokemon using the PokemonCard component provided for you in src/components/PokemonCard.tsx
+// TODO: Dynamically update the amount of pokemon fetched by changing the amount input using the limit parameter
+
 const HomePage = () => {
 	return (
 		<>
@@ -12,7 +16,7 @@ const HomePage = () => {
 					/>
 				</label>
 				<div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-					{/* Map over the pokmeonList and display each using the PokemonCard component */}
+					{/* Render a list of PokemonCard components here only use the PokemonCard component. Don't add any other html elements (it will just mess up the styling) */}
 				</div>
 			</div>
 		</>
