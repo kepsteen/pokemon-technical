@@ -1,6 +1,10 @@
 # Pokémon Explorer
 
-A React application built with Vite, TypeScript, and Tailwind CSS that allows users to browse and view details about Pokémon using the [PokéAPI](https://pokeapi.co/).
+This is a technical assessment made for self-taught developers and bootcamp grads to test their frontend functional knowledge with React.
+
+## Please Note
+
+Before looking at the code, please switch to the starter branch. The solution code exists on the main branch
 
 ## Features
 
